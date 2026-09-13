@@ -20,8 +20,8 @@ I'm a first-year Mechanical Engineering student at MVSR College of Engineering. 
 
 ## 🎯 Current Goals
 
-- [ ] **Pulley Wheel** — Functional pulley system design in Fusion 360
 - [ ] Start Arduino/embedded basics
+- [ ] Add Python projects
 
 ## 📌 Why this repo exists
 
