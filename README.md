@@ -1,12 +1,28 @@
-# engineering journal
-This repository documents my journey from CAD beginner to an Engineer.
+# Engineering Journal 📘
 
-## Daily Progress
-- [x] Day 1:- Box,
-- [x] Day 2:- L-Bracket
-- [x] Day 3:- Multipurpose Bracket
-- [x] Day 4:- Chess Pawn
+Documenting my journey from CAD beginner to a functioning mechanical engineer — one part, one concept, one day at a time.
 
-## Current Goals
-- **FizzBuzz:** A C++ exercise to practice conditional logic and loops.
-- **Pulley Wheel** Designing a functional pulley wheel system using Fusion 360.
+I'm a first-year Mechanical Engineering student at MVSR College of Engineering. This repo is where I track CAD practice, coding exercises, and the small wins along the way as I build toward more complex, functional designs (see my [profile](https://github.com/PrachiS28) for the bigger roadmap).
+
+## 🔧 CAD Progress (Fusion 360)
+
+| Day | Part | What I practiced |
+|-----|------|-------------------|
+| 1 | Box | Basic sketching & extrude |
+| 2 | L-Bracket | Sketch constraints, fillets |
+| 3 | Multipurpose Bracket | Multi-feature modeling |
+| 4 | Chess Pawn | Revolve feature, curves |
+
+## 💻 Coding Practice
+
+- `matrix_multiplication.cpp` — C++ practice with nested loops and 2D arrays
+- `fizzbuzz.cpp` — C++ exercise on conditional logic and loops
+
+## 🎯 Current Goals
+
+- [ ] **Pulley Wheel** — Functional pulley system design in Fusion 360
+- [ ] Start Arduino/embedded basics
+
+## 📌 Why this repo exists
+
+I'd rather document the messy beginner phase honestly than pretend I started further along. Every entry here is a real step, not a polished showcase — the polished projects come later, and I'll link them from here once they exist.
