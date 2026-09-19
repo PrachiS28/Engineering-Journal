@@ -15,13 +15,17 @@ I'm a first-year Mechanical Engineering student at MVSR College of Engineering. 
 
 ## 💻 Coding Practice
 
-- `matrix_multiplication.cpp` — C++ practice with nested loops and 2D arrays
-- `fizzbuzz.cpp` — C++ exercise on conditional logic and loops
+**C++**
+- `Cpp/matrix_multiplication.cpp` — practice with nested loops and 2D arrays
+- `Cpp/fizzbuzz.cpp` — conditional logic and loops
+
+**Python**
+- `Python/calculator.py` — Menu-driven calculator (add/subtract/multiply/divide) with divide-by-zero handling
 
 ## 🎯 Current Goals
 
 - [ ] Start Arduino/embedded basics
-- [ ] Add Python projects
+- [ ] Add Temperature Converter Python Program
 
 ## 📌 Why this repo exists
 
